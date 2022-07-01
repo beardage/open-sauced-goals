@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "sanity-io/hydrogen-sanity-demo",
+    "stargazers_count": 93,
+    "open_issues_count": 1,
+    "forks_count": 23
+  },
+  {
+    "full_name": "justinmk/vim-sneak",
+    "stargazers_count": 2659,
+    "open_issues_count": 23,
+    "forks_count": 74
+  },
+  {
+    "full_name": "glepnir/dashboard-nvim",
+    "stargazers_count": 929,
+    "open_issues_count": 1,
+    "forks_count": 81
+  },
+  {
+    "full_name": "NightVim/NightVim",
+    "stargazers_count": 40,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "pmndrs/react-three-fiber",
+    "stargazers_count": 18549,
+    "open_issues_count": 34,
+    "forks_count": 1032
+  },
+  {
+    "full_name": "nvim-treesitter/nvim-treesitter-context",
+    "stargazers_count": 695,
+    "open_issues_count": 23,
+    "forks_count": 43
+  },
+  {
+    "full_name": "nvim-neorg/neorg",
+    "stargazers_count": 2403,
+    "open_issues_count": 56,
+    "forks_count": 68
+  },
+  {
+    "full_name": "vimwiki/vimwiki",
+    "stargazers_count": 7423,
+    "open_issues_count": 172,
+    "forks_count": 593
+  },
+  {
+    "full_name": "junegunn/vim-easy-align",
+    "stargazers_count": 3674,
+    "open_issues_count": 26,
+    "forks_count": 104
+  },
+  {
+    "full_name": "aca/emmet-ls",
+    "stargazers_count": 119,
+    "open_issues_count": 16,
+    "forks_count": 24
+  },
+  {
+    "full_name": "nanotee/nvim-lua-guide",
+    "stargazers_count": 3565,
+    "open_issues_count": 11,
+    "forks_count": 113
+  },
+  {
+    "full_name": "mg979/vim-visual-multi",
+    "stargazers_count": 2263,
+    "open_issues_count": 4,
+    "forks_count": 46
+  },
+  {
+    "full_name": "lewis6991/impatient.nvim",
+    "stargazers_count": 785,
+    "open_issues_count": 2,
+    "forks_count": 18
+  },
+  {
+    "full_name": "rafamadriz/friendly-snippets",
+    "stargazers_count": 519,
+    "open_issues_count": 7,
+    "forks_count": 164
+  },
+  {
+    "full_name": "FormidableLabs/spectacle",
+    "stargazers_count": 9260,
+    "open_issues_count": 92,
+    "forks_count": 712
+  },
+  {
+    "full_name": "mrjones2014/smart-splits.nvim",
+    "stargazers_count": 133,
+    "open_issues_count": 2,
+    "forks_count": 7
+  },
+  {
+    "full_name": "folke/todo-comments.nvim",
+    "stargazers_count": 902,
+    "open_issues_count": 39,
+    "forks_count": 30
+  },
+  {
+    "full_name": "beardage/orlock.nvim",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Shopify/hydrogen",
+    "stargazers_count": 3246,
+    "open_issues_count": 152,
+    "forks_count": 237
+  },
+  {
+    "full_name": "folke/which-key.nvim",
+    "stargazers_count": 1547,
+    "open_issues_count": 110,
+    "forks_count": 72
+  },
+  {
+    "full_name": "tyrannicaltoucan/vim-deep-space",
+    "stargazers_count": 253,
+    "open_issues_count": 5,
+    "forks_count": 24
+  },
+  {
+    "full_name": "tailwindlabs/headlessui",
+    "stargazers_count": 15537,
+    "open_issues_count": 29,
+    "forks_count": 591
+  },
+  {
+    "full_name": "remotion-dev/remotion",
+    "stargazers_count": 13292,
+    "open_issues_count": 65,
+    "forks_count": 549
+  },
+  {
+    "full_name": "testing-library/react-testing-library",
+    "stargazers_count": 16613,
+    "open_issues_count": 13,
+    "forks_count": 973
+  },
+  {
+    "full_name": "tqwewe/prettier-plugin-tailwind",
+    "stargazers_count": 424,
+    "open_issues_count": 29,
+    "forks_count": 26
+  },
+  {
+    "full_name": "airbnb/javascript",
+    "stargazers_count": 124400,
+    "open_issues_count": 135,
+    "forks_count": 23852
+  },
+  {
+    "full_name": "type-challenges/type-challenges",
+    "stargazers_count": 20180,
+    "open_issues_count": 11317,
+    "forks_count": 1827
+  },
+  {
+    "full_name": "anishathalye/dotbot",
+    "stargazers_count": 5427,
+    "open_issues_count": 34,
+    "forks_count": 246
+  },
+  {
+    "full_name": "soundmonster/samoklava",
+    "stargazers_count": 172,
+    "open_issues_count": 5,
+    "forks_count": 100
+  },
+  {
+    "full_name": "mut-ex/awesome-wm-nice",
+    "stargazers_count": 347,
+    "open_issues_count": 17,
+    "forks_count": 23
+  }
+]
