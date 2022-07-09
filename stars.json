@@ -1,25 +1,25 @@
 [
   {
     "full_name": "ThePrimeagen/refactoring.nvim",
-    "stargazers_count": 951,
+    "stargazers_count": 955,
     "open_issues_count": 19,
     "forks_count": 58
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 1,
     "forks_count": 24
   },
   {
     "full_name": "justinmk/vim-sneak",
-    "stargazers_count": 2665,
+    "stargazers_count": 2667,
     "open_issues_count": 23,
     "forks_count": 74
   },
   {
     "full_name": "glepnir/dashboard-nvim",
-    "stargazers_count": 940,
+    "stargazers_count": 941,
     "open_issues_count": 1,
     "forks_count": 82
   },
@@ -31,31 +31,31 @@
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 18632,
-    "open_issues_count": 41,
-    "forks_count": 1037
+    "stargazers_count": 18641,
+    "open_issues_count": 40,
+    "forks_count": 1039
   },
   {
     "full_name": "nvim-treesitter/nvim-treesitter-context",
-    "stargazers_count": 705,
+    "stargazers_count": 706,
     "open_issues_count": 23,
     "forks_count": 44
   },
   {
     "full_name": "nvim-neorg/neorg",
-    "stargazers_count": 2431,
-    "open_issues_count": 61,
+    "stargazers_count": 2437,
+    "open_issues_count": 50,
     "forks_count": 70
   },
   {
     "full_name": "vimwiki/vimwiki",
-    "stargazers_count": 7428,
+    "stargazers_count": 7432,
     "open_issues_count": 177,
     "forks_count": 592
   },
   {
     "full_name": "junegunn/vim-easy-align",
-    "stargazers_count": 3680,
+    "stargazers_count": 3681,
     "open_issues_count": 26,
     "forks_count": 104
   },
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "nanotee/nvim-lua-guide",
-    "stargazers_count": 3618,
+    "stargazers_count": 3625,
     "open_issues_count": 11,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "mg979/vim-visual-multi",
-    "stargazers_count": 2283,
+    "stargazers_count": 2284,
     "open_issues_count": 4,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "lewis6991/impatient.nvim",
-    "stargazers_count": 794,
+    "stargazers_count": 796,
     "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "rafamadriz/friendly-snippets",
-    "stargazers_count": 531,
+    "stargazers_count": 532,
     "open_issues_count": 4,
-    "forks_count": 162
+    "forks_count": 163
   },
   {
     "full_name": "FormidableLabs/spectacle",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 911,
+    "stargazers_count": 915,
     "open_issues_count": 39,
     "forks_count": 28
   },
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "Shopify/hydrogen",
-    "stargazers_count": 3287,
-    "open_issues_count": 155,
+    "stargazers_count": 3286,
+    "open_issues_count": 156,
     "forks_count": 240
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 1557,
+    "stargazers_count": 1566,
     "open_issues_count": 113,
     "forks_count": 73
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "tailwindlabs/headlessui",
-    "stargazers_count": 15609,
+    "stargazers_count": 15619,
     "open_issues_count": 34,
-    "forks_count": 593
+    "forks_count": 594
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 13347,
-    "open_issues_count": 63,
+    "stargazers_count": 13350,
+    "open_issues_count": 65,
     "forks_count": 550
   },
   {
     "full_name": "testing-library/react-testing-library",
-    "stargazers_count": 16635,
+    "stargazers_count": 16639,
     "open_issues_count": 10,
     "forks_count": 975
   },
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 124544,
+    "stargazers_count": 124569,
     "open_issues_count": 136,
-    "forks_count": 23879
+    "forks_count": 23882
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 20554,
-    "open_issues_count": 11513,
-    "forks_count": 1877
+    "stargazers_count": 20603,
+    "open_issues_count": 11543,
+    "forks_count": 1884
   },
   {
     "full_name": "anishathalye/dotbot",
-    "stargazers_count": 5439,
+    "stargazers_count": 5445,
     "open_issues_count": 34,
     "forks_count": 247
   },
