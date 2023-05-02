@@ -7,27 +7,27 @@
   },
   {
     "full_name": "dai-shi/wakuwork",
-    "stargazers_count": 624,
+    "stargazers_count": 638,
     "open_issues_count": 5,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "sindrets/diffview.nvim",
-    "stargazers_count": 2214,
-    "open_issues_count": 21,
-    "forks_count": 58
+    "stargazers_count": 2224,
+    "open_issues_count": 23,
+    "forks_count": 59
   },
   {
     "full_name": "zbirenbaum/copilot.lua",
-    "stargazers_count": 916,
-    "open_issues_count": 7,
+    "stargazers_count": 939,
+    "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "github/copilot.vim",
-    "stargazers_count": 5225,
+    "stargazers_count": 5262,
     "open_issues_count": 0,
-    "forks_count": 194
+    "forks_count": 197
   },
   {
     "full_name": "james1236/backseat.nvim",
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 69573,
-    "open_issues_count": 2060,
-    "forks_count": 13080
+    "stargazers_count": 70534,
+    "open_issues_count": 1952,
+    "forks_count": 13344
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 8639,
-    "open_issues_count": 130,
-    "forks_count": 356
+    "stargazers_count": 8669,
+    "open_issues_count": 133,
+    "forks_count": 357
   },
   {
     "full_name": "adamelmore/good-repo",
-    "stargazers_count": 1375,
-    "open_issues_count": 3,
+    "stargazers_count": 1374,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "urob/zmk-config",
-    "stargazers_count": 121,
-    "open_issues_count": 4,
+    "stargazers_count": 123,
+    "open_issues_count": 5,
     "forks_count": 45
   },
   {
     "full_name": "nickcoutsos/keymap-editor",
-    "stargazers_count": 310,
+    "stargazers_count": 314,
     "open_issues_count": 12,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "windwp/nvim-ts-autotag",
-    "stargazers_count": 890,
+    "stargazers_count": 894,
     "open_issues_count": 7,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "marklawlor/nativewind",
-    "stargazers_count": 2202,
+    "stargazers_count": 2214,
     "open_issues_count": 64,
-    "forks_count": 123
+    "forks_count": 125
   },
   {
     "full_name": "edankwan/Constraint",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 17896,
+    "stargazers_count": 17932,
     "open_issues_count": 70,
     "forks_count": 574
   },
   {
     "full_name": "ThePrimeagen/harpoon",
-    "stargazers_count": 2421,
-    "open_issues_count": 106,
+    "stargazers_count": 2458,
+    "open_issues_count": 107,
     "forks_count": 170
   },
   {
     "full_name": "riderx/awesome-capacitor",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 1,
     "forks_count": 20
   },
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "jay-babu/mason-null-ls.nvim",
-    "stargazers_count": 328,
+    "stargazers_count": 331,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "fand/veda",
-    "stargazers_count": 469,
+    "stargazers_count": 470,
     "open_issues_count": 14,
     "forks_count": 37
   },
   {
     "full_name": "mxsdev/nvim-dap-vscode-js",
-    "stargazers_count": 167,
-    "open_issues_count": 23,
-    "forks_count": 11
+    "stargazers_count": 168,
+    "open_issues_count": 25,
+    "forks_count": 12
   },
   {
     "full_name": "David-Kunz/jester",
-    "stargazers_count": 157,
+    "stargazers_count": 159,
     "open_issues_count": 4,
     "forks_count": 8
   },
   {
     "full_name": "mfussenegger/nvim-dap",
-    "stargazers_count": 3244,
-    "open_issues_count": 26,
+    "stargazers_count": 3260,
+    "open_issues_count": 27,
     "forks_count": 148
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 52540,
-    "open_issues_count": 476,
-    "forks_count": 8146
+    "stargazers_count": 52799,
+    "open_issues_count": 479,
+    "forks_count": 8210
   },
   {
     "full_name": "tmuxinator/tmuxinator",
-    "stargazers_count": 11893,
+    "stargazers_count": 11902,
     "open_issues_count": 112,
     "forks_count": 629
   },
   {
     "full_name": "catppuccin/tmux",
-    "stargazers_count": 197,
+    "stargazers_count": 213,
     "open_issues_count": 7,
-    "forks_count": 57
+    "forks_count": 65
   },
   {
     "full_name": "ThePrimeagen/vim-be-good",
-    "stargazers_count": 1509,
-    "open_issues_count": 35,
-    "forks_count": 54
+    "stargazers_count": 1522,
+    "open_issues_count": 37,
+    "forks_count": 55
   }
 ]
