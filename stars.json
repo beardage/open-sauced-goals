@@ -2,20 +2,20 @@
   {
     "full_name": "Chaitanyabsprip/fastaction.nvim",
     "stargazers_count": 57,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "CopilotC-Nvim/CopilotChat.nvim",
-    "stargazers_count": 1461,
-    "open_issues_count": 11,
-    "forks_count": 68
+    "stargazers_count": 1473,
+    "open_issues_count": 12,
+    "forks_count": 69
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 26533,
-    "open_issues_count": 18,
-    "forks_count": 1689
+    "stargazers_count": 26548,
+    "open_issues_count": 19,
+    "forks_count": 1688
   },
   {
     "full_name": "echasnovski/mini.surround",
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "typehero/typehero",
-    "stargazers_count": 5681,
-    "open_issues_count": 44,
+    "stargazers_count": 5707,
+    "open_issues_count": 43,
     "forks_count": 406
   },
   {
     "full_name": "nvim-pack/nvim-spectre",
-    "stargazers_count": 2006,
+    "stargazers_count": 2014,
     "open_issues_count": 19,
     "forks_count": 69
   },
   {
     "full_name": "tpope/vim-fugitive",
-    "stargazers_count": 19802,
+    "stargazers_count": 19810,
     "open_issues_count": 64,
     "forks_count": 1002
   },
   {
     "full_name": "sst/sst",
-    "stargazers_count": 21329,
-    "open_issues_count": 836,
+    "stargazers_count": 21342,
+    "open_issues_count": 837,
     "forks_count": 1627
   },
   {
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3890,
+    "stargazers_count": 3891,
     "open_issues_count": 1,
     "forks_count": 69
   },
   {
     "full_name": "davidhampgonsalves/Life-Dashboard",
-    "stargazers_count": 1284,
+    "stargazers_count": 1283,
     "open_issues_count": 13,
     "forks_count": 20
   },
   {
     "full_name": "laixintao/flameshow",
-    "stargazers_count": 1012,
+    "stargazers_count": 1013,
     "open_issues_count": 7,
     "forks_count": 20
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "kevinhwang91/nvim-ufo",
-    "stargazers_count": 2253,
+    "stargazers_count": 2258,
     "open_issues_count": 27,
     "forks_count": 47
   },
@@ -103,49 +103,49 @@
   },
   {
     "full_name": "dai-shi/waku",
-    "stargazers_count": 4423,
+    "stargazers_count": 4434,
     "open_issues_count": 25,
-    "forks_count": 115
+    "forks_count": 116
   },
   {
     "full_name": "sindrets/diffview.nvim",
-    "stargazers_count": 3760,
-    "open_issues_count": 67,
+    "stargazers_count": 3811,
+    "open_issues_count": 68,
     "forks_count": 105
   },
   {
     "full_name": "zbirenbaum/copilot.lua",
-    "stargazers_count": 2554,
+    "stargazers_count": 2559,
     "open_issues_count": 46,
     "forks_count": 74
   },
   {
     "full_name": "github/copilot.vim",
-    "stargazers_count": 8201,
+    "stargazers_count": 8219,
     "open_issues_count": 0,
     "forks_count": 287
   },
   {
     "full_name": "james1236/backseat.nvim",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 138944,
-    "open_issues_count": 2268,
-    "forks_count": 26371
+    "stargazers_count": 139103,
+    "open_issues_count": 2270,
+    "forks_count": 26401
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 12218,
-    "open_issues_count": 176,
+    "stargazers_count": 12228,
+    "open_issues_count": 170,
     "forks_count": 540
   },
   {
     "full_name": "adamdottv/good-repo",
-    "stargazers_count": 1302,
+    "stargazers_count": 1300,
     "open_issues_count": 5,
     "forks_count": 4
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "urob/zmk-config",
-    "stargazers_count": 593,
-    "open_issues_count": 6,
-    "forks_count": 275
+    "stargazers_count": 598,
+    "open_issues_count": 7,
+    "forks_count": 276
   },
   {
     "full_name": "nickcoutsos/keymap-editor",
-    "stargazers_count": 1077,
+    "stargazers_count": 1085,
     "open_issues_count": 24,
     "forks_count": 278
   },
   {
     "full_name": "windwp/nvim-ts-autotag",
-    "stargazers_count": 1617,
+    "stargazers_count": 1619,
     "open_issues_count": 11,
     "forks_count": 86
   }
