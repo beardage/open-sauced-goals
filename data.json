@@ -1,13 +1,13 @@
 [
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 83127,
-    "open_issues_count": 1838,
-    "forks_count": 5686
+    "stargazers_count": 83223,
+    "open_issues_count": 1851,
+    "forks_count": 5692
   },
   {
     "full_name": "Shopify/hydrogen",
-    "stargazers_count": 1428,
+    "stargazers_count": 1435,
     "open_issues_count": 118,
     "forks_count": 273
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2377,
+    "stargazers_count": 2383,
     "open_issues_count": 69,
     "forks_count": 193
   },
@@ -33,6 +33,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 938,
     "open_issues_count": 0,
-    "forks_count": 1009
+    "forks_count": 1011
   }
 ]
