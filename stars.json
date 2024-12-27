@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "Chaitanyabsprip/present.nvim",
+    "stargazers_count": 149,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
     "full_name": "joelparkerhenderson/architecture-decision-record",
-    "stargazers_count": 12479,
+    "stargazers_count": 12486,
     "open_issues_count": 5,
-    "forks_count": 2467
+    "forks_count": 2469
   },
   {
     "full_name": "trevorhauter/gitportal.nvim",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "olimorris/codecompanion.nvim",
-    "stargazers_count": 1533,
-    "open_issues_count": 4,
-    "forks_count": 95
+    "stargazers_count": 1574,
+    "open_issues_count": 2,
+    "forks_count": 96
   },
   {
     "full_name": "jecaro/fugitive-difftool.nvim",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "ethanniser/NextFaster",
-    "stargazers_count": 3403,
-    "open_issues_count": 12,
-    "forks_count": 429
+    "stargazers_count": 3419,
+    "open_issues_count": 11,
+    "forks_count": 433
   },
   {
     "full_name": "neanias/everforest-nvim",
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "Saghen/blink.cmp",
-    "stargazers_count": 2485,
-    "open_issues_count": 82,
-    "forks_count": 130
+    "stargazers_count": 2599,
+    "open_issues_count": 99,
+    "forks_count": 136
   },
   {
     "full_name": "nikitabobko/AeroSpace",
-    "stargazers_count": 9107,
+    "stargazers_count": 9162,
     "open_issues_count": 188,
-    "forks_count": 153
+    "forks_count": 156
   },
   {
     "full_name": "Quorafind/Obsidian-Daily-Notes-Editor",
@@ -67,63 +73,63 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 281878,
+    "stargazers_count": 282895,
     "open_issues_count": 473,
-    "forks_count": 47159
+    "forks_count": 47288
   },
   {
     "full_name": "afadil/wealthfolio",
-    "stargazers_count": 4446,
-    "open_issues_count": 47,
-    "forks_count": 230
+    "stargazers_count": 4453,
+    "open_issues_count": 46,
+    "forks_count": 231
   },
   {
     "full_name": "Chaitanyabsprip/fastaction.nvim",
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "full_name": "CopilotC-Nvim/CopilotChat.nvim",
-    "stargazers_count": 1918,
-    "open_issues_count": 14,
+    "stargazers_count": 1926,
+    "open_issues_count": 15,
     "forks_count": 88
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 26890,
+    "stargazers_count": 26893,
     "open_issues_count": 15,
     "forks_count": 1699
   },
   {
     "full_name": "echasnovski/mini.surround",
-    "stargazers_count": 376,
+    "stargazers_count": 379,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "typehero/typehero",
-    "stargazers_count": 6129,
-    "open_issues_count": 45,
-    "forks_count": 443
+    "stargazers_count": 6137,
+    "open_issues_count": 46,
+    "forks_count": 444
   },
   {
     "full_name": "nvim-pack/nvim-spectre",
-    "stargazers_count": 2126,
-    "open_issues_count": 16,
-    "forks_count": 71
+    "stargazers_count": 2127,
+    "open_issues_count": 17,
+    "forks_count": 72
   },
   {
     "full_name": "tpope/vim-fugitive",
-    "stargazers_count": 20187,
-    "open_issues_count": 72,
+    "stargazers_count": 20198,
+    "open_issues_count": 73,
     "forks_count": 1018
   },
   {
     "full_name": "sst/sst",
-    "stargazers_count": 22445,
-    "open_issues_count": 489,
-    "forks_count": 1710
+    "stargazers_count": 22462,
+    "open_issues_count": 494,
+    "forks_count": 1713
   },
   {
     "full_name": "LuisFilipePedroso/DevEnv",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3976,
+    "stargazers_count": 3977,
     "open_issues_count": 1,
-    "forks_count": 76
+    "forks_count": 75
   },
   {
     "full_name": "davidhampgonsalves/Life-Dashboard",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "kevinhwang91/nvim-ufo",
-    "stargazers_count": 2410,
-    "open_issues_count": 28,
+    "stargazers_count": 2412,
+    "open_issues_count": 29,
     "forks_count": 50
-  },
-  {
-    "full_name": "Rafostar/gnome-shell-extension-cast-to-tv",
-    "stargazers_count": 292,
-    "open_issues_count": 19,
-    "forks_count": 17
   }
 ]
