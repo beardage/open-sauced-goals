@@ -1,31 +1,31 @@
 [
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 87034,
-    "open_issues_count": 1871,
-    "forks_count": 5926
+    "stargazers_count": 87140,
+    "open_issues_count": 1874,
+    "forks_count": 5927
   },
   {
     "full_name": "Shopify/hydrogen",
-    "stargazers_count": 1563,
-    "open_issues_count": 123,
-    "forks_count": 296
+    "stargazers_count": 1564,
+    "open_issues_count": 122,
+    "forks_count": 298
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 331,
+    "stargazers_count": 332,
     "open_issues_count": 15,
     "forks_count": 87
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 331,
+    "stargazers_count": 332,
     "open_issues_count": 15,
     "forks_count": 87
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2522,
+    "stargazers_count": 2524,
     "open_issues_count": 68,
     "forks_count": 196
   },
@@ -33,6 +33,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 945,
     "open_issues_count": 0,
-    "forks_count": 1090
+    "forks_count": 1089
   }
 ]
