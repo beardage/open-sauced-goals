@@ -1,13 +1,13 @@
 [
   {
     "full_name": "vasturiano/react-force-graph",
-    "stargazers_count": 2626,
+    "stargazers_count": 2640,
     "open_issues_count": 213,
-    "forks_count": 311
+    "forks_count": 312
   },
   {
     "full_name": "LayerXcom/next-navigation-guard",
-    "stargazers_count": 381,
+    "stargazers_count": 383,
     "open_issues_count": 21,
     "forks_count": 22
   },
@@ -19,31 +19,31 @@
   },
   {
     "full_name": "PatrickJS/awesome-cursorrules",
-    "stargazers_count": 30183,
-    "open_issues_count": 45,
-    "forks_count": 2471
+    "stargazers_count": 30500,
+    "open_issues_count": 47,
+    "forks_count": 2493
   },
   {
     "full_name": "ggandor/leap.nvim",
-    "stargazers_count": 4768,
+    "stargazers_count": 4774,
     "open_issues_count": 38,
     "forks_count": 47
   },
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 18827,
+    "stargazers_count": 18858,
     "open_issues_count": 114,
-    "forks_count": 310
+    "forks_count": 309
   },
   {
     "full_name": "sphamba/smear-cursor.nvim",
-    "stargazers_count": 1123,
+    "stargazers_count": 1132,
     "open_issues_count": 6,
-    "forks_count": 23
+    "forks_count": 22
   },
   {
     "full_name": "azat-io/eslint-plugin-perfectionist",
-    "stargazers_count": 2615,
+    "stargazers_count": 2620,
     "open_issues_count": 8,
     "forks_count": 51
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 69111,
-    "open_issues_count": 855,
-    "forks_count": 16735
+    "stargazers_count": 69123,
+    "open_issues_count": 854,
+    "forks_count": 16736
   },
   {
     "full_name": "Chaitanyabsprip/present.nvim",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "joelparkerhenderson/architecture-decision-record",
-    "stargazers_count": 13596,
+    "stargazers_count": 13616,
     "open_issues_count": 5,
-    "forks_count": 2559
+    "forks_count": 2560
   },
   {
     "full_name": "trevorhauter/gitportal.nvim",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "olimorris/codecompanion.nvim",
-    "stargazers_count": 4434,
-    "open_issues_count": 12,
-    "forks_count": 262
+    "stargazers_count": 4474,
+    "open_issues_count": 7,
+    "forks_count": 266
   },
   {
     "full_name": "jecaro/fugitive-difftool.nvim",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ethanniser/NextFaster",
-    "stargazers_count": 4347,
+    "stargazers_count": 4353,
     "open_issues_count": 10,
-    "forks_count": 566
+    "forks_count": 568
   },
   {
     "full_name": "neanias/everforest-nvim",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "Saghen/blink.cmp",
-    "stargazers_count": 4860,
-    "open_issues_count": 112,
+    "stargazers_count": 4875,
+    "open_issues_count": 111,
     "forks_count": 280
   },
   {
     "full_name": "nikitabobko/AeroSpace",
-    "stargazers_count": 13738,
-    "open_issues_count": 182,
-    "forks_count": 277
+    "stargazers_count": 13801,
+    "open_issues_count": 167,
+    "forks_count": 279
   },
   {
     "full_name": "Quorafind/Obsidian-Daily-Notes-Editor",
@@ -127,55 +127,55 @@
   },
   {
     "full_name": "mattdibi/redox-keyboard",
-    "stargazers_count": 1878,
+    "stargazers_count": 1879,
     "open_issues_count": 29,
     "forks_count": 175
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 310097,
-    "open_issues_count": 506,
-    "forks_count": 51054
+    "stargazers_count": 310616,
+    "open_issues_count": 507,
+    "forks_count": 51126
   },
   {
     "full_name": "afadil/wealthfolio",
-    "stargazers_count": 5231,
+    "stargazers_count": 5235,
     "open_issues_count": 76,
-    "forks_count": 274
+    "forks_count": 275
   },
   {
     "full_name": "Chaitanyabsprip/fastaction.nvim",
-    "stargazers_count": 151,
-    "open_issues_count": 3,
+    "stargazers_count": 152,
+    "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "CopilotC-Nvim/CopilotChat.nvim",
-    "stargazers_count": 3044,
-    "open_issues_count": 36,
+    "stargazers_count": 3060,
+    "open_issues_count": 35,
     "forks_count": 134
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 27449,
+    "stargazers_count": 27455,
     "open_issues_count": 13,
     "forks_count": 1721
   },
   {
     "full_name": "echasnovski/mini.surround",
-    "stargazers_count": 513,
+    "stargazers_count": 515,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "typehero/typehero",
-    "stargazers_count": 6371,
+    "stargazers_count": 6376,
     "open_issues_count": 43,
     "forks_count": 454
   },
   {
     "full_name": "nvim-pack/nvim-spectre",
-    "stargazers_count": 2252,
+    "stargazers_count": 2257,
     "open_issues_count": 15,
     "forks_count": 78
   }
